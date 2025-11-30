@@ -194,7 +194,7 @@ The data clearly demonstrates that newcomers are not only filling population gap
 
 Overall, this project reinforces a key reality that Canada’s future, economically, socially, and demographically, is deeply intertwined with its ability to attract, retain, and integrate immigrants.
 
-## [PowerBI Dashboard]([url](https://app.powerbi.com/groups/me/reports/5564cc39-d744-4260-be84-f051197982da/9bf5b8f79708020d1ebb?experience=power-bi))
+## [PowerBI Dashboard]([url](https://app.powerbi.com/groups/me/reports/5564cc39-d744-4260-be84-f051197982da/730543c24d5018dc922d?experience=power-bi))
 
 
 
