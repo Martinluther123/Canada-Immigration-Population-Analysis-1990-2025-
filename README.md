@@ -163,7 +163,8 @@ The chart shows that Canada continues to rely heavily on immigration to support 
 
 ### Insight:
 
-The immigrant population in Canada is slightly female-majority, and this difference has gradually increased over time. When examining gender distribution by country of origin, most countries show a higher share of female immigrants, including the United Kingdom, United States, Ukraine, Venezuela, Viet Nam, Zimbabwe, and Uruguay, all of which have more than half of their immigrants being women. The only country showing a male-leaning immigrant share in the data is the United Arab Emirates, with around 53% male representation. The rise in female migration suggests greater family-based relocation and skilled professional migration among women.<img width="2254" height="1258" alt="Page 3" src="https://github.com/user-attachments/assets/136799d3-6fb3-4cf1-ba70-2de846d8fc8e" />
+The immigrant population in Canada is slightly female-majority, and this difference has gradually increased over time. When examining gender distribution by country of origin, most countries show a higher share of female immigrants, including the United Kingdom, United States, Ukraine, Venezuela, Viet Nam, Zimbabwe, and Uruguay, all of which have more than half of their immigrants being women. The only country showing a male-leaning immigrant share in the data is the United Arab Emirates, with around 53% male representation. The rise in female migration suggests greater family-based relocation and skilled professional migration among women.<img width="2010" height="1160" alt="Age   Gender" src="https://github.com/user-attachments/assets/0269ed9f-86f9-4193-a253-a7e8c943c6bd" />
+
 
 ## Page 4 - Population Context of Canada
 ### Highlights:
