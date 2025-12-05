@@ -177,7 +177,7 @@ The immigrant population in Canada is slightly female-majority, and this differe
 
 ### Insight:
 
-Canada’s demographic trajectory over the past three decades shows a dramatic shift toward immigration-driven population growth. The country expanded from 27.6 million people in 1990 to 40 million in 2025, and international migration has been a major contributor to this growth. During that same period, the immigrant population nearly doubled, rising from 4.2 million to 8.8 million, demonstrating Canada’s increasing reliance on foreign-born residents to sustain its workforce and economy.
+Canada’s demographic trajectory over the past three decades shows a dramatic shift toward immigration-driven population growth. The country expanded from 27.6 million people in 1990 to 40 million in 2025, and international migration has been a major contributor to this growth. During that same period, the immigrant population more than doubled, rising from 4.2 million to 8.8 million, demonstrating Canada’s increasing reliance on foreign-born residents to sustain its workforce and economy.
 
 At the same time, internal demographic indicators reveal a declining natural growth trend. The national fertility rate has fallen to 1.34, significantly below the population replacement threshold of 2.1 children per woman, while Canada’s median age has risen to 40.5 years, reflecting an aging population. These patterns indicate that births alone are no longer sufficient to maintain population stability.
 
