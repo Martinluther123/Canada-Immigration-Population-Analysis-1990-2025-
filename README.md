@@ -185,7 +185,8 @@ At the same time, internal demographic indicators reveal a declining natural gro
 As a direct consequence, immigration now accounts for 60–80% of Canada’s total population growth, overtaking natural births as the dominant source of expansion. The data shows a steady decline in *Natural Population Growth (births minus deaths)* since the 1990s, meaning that, without sustained immigration, Canada would face population stagnation, labour shortages, and increased pressure on pension and healthcare systems.
 
 Lastly, the evidence clearly illustrates that immigration is not just an economic policy choice for Canada, it has become a *structural requirement for national sustainability*.<img width="2234" height="1268" alt="Page 4(i)" src="https://github.com/user-attachments/assets/d6b9cacb-2ae5-4c51-bc2b-b1afdcb65318" />
-<img width="2008" height="1160" alt="Page 4(ii)" src="https://github.com/user-attachments/assets/bdedd8c1-84ee-4b36-b4b1-c93b69adaad1" />
+<img width="2008" height="1160" alt="Population Cont&#39;d" src="https://github.com/user-attachments/assets/528f6a37-687f-4e01-8fb0-93a07b7c70db" />
+
 
 
 ## Conclusion
