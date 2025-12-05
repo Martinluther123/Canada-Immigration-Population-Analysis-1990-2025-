@@ -185,13 +185,14 @@ At the same time, internal demographic indicators reveal a declining natural gro
 As a direct consequence, immigration now accounts for 60–80% of Canada’s total population growth, overtaking natural births as the dominant source of expansion. The data shows a steady decline in *Natural Population Growth (births minus deaths)* since the 1990s, meaning that, without sustained immigration, Canada would face population stagnation, labour shortages, and increased pressure on pension and healthcare systems.
 
 Lastly, the evidence clearly illustrates that immigration is not just an economic policy choice for Canada, it has become a *structural requirement for national sustainability*.<img width="2234" height="1268" alt="Page 4(i)" src="https://github.com/user-attachments/assets/d6b9cacb-2ae5-4c51-bc2b-b1afdcb65318" />
-<img width="2220" height="1268" alt="Page 4(ii)" src="https://github.com/user-attachments/assets/030a90c2-4f45-4b99-9de5-706f918264d7" />
+<img width="2008" height="1160" alt="Page 4(ii)" src="https://github.com/user-attachments/assets/bdedd8c1-84ee-4b36-b4b1-c93b69adaad1" />
+
 
 ## Conclusion
 
-This analysis highlights the pivotal role immigration now plays in shaping Canada’s demographic and economic future. While the country has steadily grown to nearly 40 million residents, the internal natural growth rate has slowed, fertility continues to decline, and the population is aging. In this context, immigration has transformed from a supplementary population driver into an essential pillar of national sustainability.
+This analysis highlights the pivotal role immigration now plays in shaping Canada’s demographic and economic future. While the country has steadily grown to nearly 40 million residents, the internal natural growth rate has slowed, fertility continues to decline, and the population is aging. In this context, immigration has shifted from a supplementary driver of population growth to an essential pillar of national sustainability.
 
-The data clearly demonstrates that newcomers are not only filling population gaps, but they are revitalizing the labor force, contributing cultural diversity, strengthening innovation capacity, and supporting the long-term balance of Canada’s demographic structure. Without immigration, Canada would face shrinking workforce participation, reduced economic expansion, and long-term population stagnation.
+The data clearly demonstrates that newcomers are not only filling population gaps but also revitalizing the labor force, contributing to cultural diversity, strengthening innovation capacity, and supporting the long-term balance of Canada’s demographic structure. Without immigration, Canada would face shrinking workforce participation, reduced economic expansion, and long-term population stagnation.
 
 Overall, this project reinforces a key reality that Canada’s future, economically, socially, and demographically, is deeply intertwined with its ability to attract, retain, and integrate immigrants.
 
